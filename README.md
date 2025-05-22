@@ -1,6 +1,7 @@
-name:sanjeevpriya k
+name:sanjeevpriya
 
-reg no :212224040289
+reg no:212224040289
+
 # Fitting Poisson  distribution
 # Aim : 
 
